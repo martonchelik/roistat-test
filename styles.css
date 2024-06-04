@@ -320,3 +320,9 @@ footer{
         width: 75vw;
     }
 }
+
+@media (hover: none) {
+    .cursor{
+        visibility: hidden;
+    }
+}
